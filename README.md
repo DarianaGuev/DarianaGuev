@@ -1,4 +1,4 @@
-Hi, I'm studen in Software Engineer from Mexico:) 
+Hi, I'm student in Software Engineer from Mexico:) 
 
  👀 I’m interested in mobile application development
   
